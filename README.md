@@ -67,3 +67,8 @@ Gostou do projeto e quer conhecer mais?
 O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/C9Hwa6VpPKLSM6pJVCMZgI/Jornada-Milhas-%7C-React-Service-Workers?type=design&node-id=0-1&mode=design&t=rZNRLbySPNz2Ugjf-0). 
 
 Aproveite o desenvolvimento e aprimoramento da Jornada Milhas!
+
+
+
+
+CONTINUAR - > https://cursos.alura.com.br/course/react-implemente-notificacoes-push-sincronizacao-background/task/162859
