@@ -68,7 +68,3 @@ O design e protótipo deste projeto podem ser encontrados [aqui](https://www.fig
 
 Aproveite o desenvolvimento e aprimoramento da Jornada Milhas!
 
-
-
-
-CONTINUAR - > https://cursos.alura.com.br/course/react-implemente-notificacoes-push-sincronizacao-background/task/162859
